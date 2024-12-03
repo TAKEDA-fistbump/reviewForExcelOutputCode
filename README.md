@@ -1,1 +1,2 @@
-レビュー用
+# レビュー用サイト
+https://reviewable.io/reviews/TAKEDA-fistbump/reviewForExcelOutputCode#-
